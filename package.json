@@ -1,5 +1,5 @@
 {
-  "name": "FishCamp",
+  "name": "fishcamp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
     "express": "^4.17.1",
-    "mongoose": "^6.0.3"
+    "joi": "^17.4.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.3",
+    "morgan": "^1.10.0"
   }
 }
